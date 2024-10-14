@@ -1,10 +1,10 @@
-DEVOPS copy paste from D2L pdf
+DEVOPS copy paste from D2L pdf - https://learn.georgebrown.ca/d2l/le/content/290497/viewContent/8959005/View
 
 Course Description
-In this course students will learn the procedures, protocols and best practices that a DevOps 
-engineer brings to a workplace environment to increase productivity. Analyze and evaluate 
-various developer operation implementations available and implement hands-on work using 
-industry standard toolkit. Create solutions to complex business problems by adhering to the core 
-responsibilities of DevOps.
 
-https://learn.georgebrown.ca/d2l/le/content/290497/viewContent/8959005/View
+In this course students will learn the procedures, protocols and best practices that a DevOps engineer brings to a workplace environment to increase productivity. Analyze and evaluate various developer operation implementations available and implement hands-on work using industry standard toolkit. Create solutions to complex business problems by adhering to the core responsibilities of DevOps.
+
+
+Why this course matters - https://learn.georgebrown.ca/d2l/le/content/290497/viewContent/8959004/View
+
+"This course is designed to better prepare professionals entering the IT field. Specifically, a field where servers, web apps and infrastructure will be core to business needs. COMP 3104 will provide a hands-on experience through the implementation of tried, tested and true DevOps technologies. We will also examine ways in which companies have either lost or saved fortunes with DevOps strategies. Learning about Amazon Web Services, Ansible, Docker and Travis CI, you will become familiar with end-to-end deployment processes. You will also have your very own build pipeline which will allow you to push changes to a web app in the wild at the stroke of a key. Using DevOps practices effectively will allow for a process predicated on ease to ship code to Production servers, apply hot-fixes, catch errors before they produce some sort of unintended behavior and keep transparency & communication heightened across all teams. Looking at the software development lifecycle through the lens of a DevOps Engineer will produce a more informed and qualified developer."
