@@ -1,4 +1,4 @@
-SDLC Copy Paste - geeksforgeeks
+SDLC Copy Paste - geeksforgeeks - https://www.geeksforgeeks.org/software-development-life-cycle-sdlc/
 
 Software development life cycle (SDLC) is a structured process that is used to design, develop, and test good-quality software. SDLC, or software development life cycle, is a methodology that defines the entire procedure of software development step-by-step.
 
@@ -11,4 +11,12 @@ Stages of the Software Development Life Cycle
 SDLC specifies the task(s) to be performed at various stages by a software engineer or developer. It ensures that the end product is able to meet the customer’s expectations and fits within the overall budget. Hence, it’s vital for a software developer to have prior knowledge of this software development process. 
 
 
-https://www.geeksforgeeks.org/software-development-life-cycle-sdlc/
+The 7 SDLC Stages - split.io - https://www.split.io/blog/software-development-life-cycle-phases/
+Phase 1: Planning
+Phase 2: Requirements Analysis
+Phase 3: Design
+Phase 4: Coding
+Phase 5: Testing
+Phase 6: Deployment
+Phase 7: Maintenance
+
